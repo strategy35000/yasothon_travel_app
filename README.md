@@ -1,16 +1,12 @@
-# yasothon_travel_app
+# Yasothon Travel App
 
-A new Flutter project.
+แอปท่องเที่ยวยโสธรด้วย Flutter 🇹🇭  
+รวมสถานที่น่าสนใจ ร้านอาหาร และแผนที่เดินทาง
 
-## Getting Started
+## 🖼️ ตัวอย่างหน้าจอแอป
 
-This project is a starting point for a Flutter application.
+| หน้าหลัก | รายละเอียด | แผนที่ |
+|-----------|-------------|--------|
+| ![Home](screenshots/home_screen.jpg) | ![Detail](screenshots/detail_page.jpg) | ![Map](screenshots/map_view.jpg) |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> พัฒนาโดย Flutter • รองรับ Android/iOS
