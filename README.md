@@ -4,6 +4,7 @@
 รองรับทั้ง **Android / iOS**
 พร้อมระบบ **REST API เชื่อมต่อข้อมูลจาก WordPress**
 
+[ทดลองใช้งานได้ที่ https://play.google.com](https://play.google.com/store/apps/details?id=com.travel.yasothon.go.th&hl=th)  
 ---
 
 ## ✨ คุณสมบัติเด่น
